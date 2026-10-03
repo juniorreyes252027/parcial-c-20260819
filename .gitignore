@@ -1,0 +1,15 @@
+# Ejecutables y archivos temporales de compilación
+build/
+*.exe
+*.o
+*.obj
+a.out
+
+# Archivos del sistema y configuración privada
+.DS_Store
+Thumbs.db
+.env
+```[cite: 1]
+
+> ⚠️ **Advertencia importante:**
+> Conserva los archivos de prueba con extensión `.out` dentro de la carpeta `pruebas/`[cite: 1]. **No agregues `*.out` en el archivo `.gitignore`**, ya que eso ocultaría los casos de prueba que debes entregar[cite: 1]. Tus ejecutables de compilación debes guardarlos en la carpeta `build/`[cite: 1].
