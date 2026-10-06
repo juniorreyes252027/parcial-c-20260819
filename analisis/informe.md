@@ -1,0 +1,17 @@
+caso_01.in OK
+caso_02.in OK
+caso_03.in OK
+caso_04.in OK
+caso_05.in OK
+caso_06.in OK
+caso_07.in OK
+caso_08.in OK
+caso_09.in OK
+caso_10.in OK
+caso_11.in OK
+caso_12.in OK
+caso_13.in OK
+caso_14.in OK
+caso_15.in OK
+caso_16.in OK
+caso_17.in OK
